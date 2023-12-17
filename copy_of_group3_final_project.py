@@ -43,7 +43,7 @@ model = load_fashion_model()
 
 st.write("""# What's the Fashion?""")
 st.text("Ladisla, Christelle John T.")
-st.text("Young, Charles Henry(wala daw tinulong sir)")
+st.text("Young, Charles Henry")
 
 
 

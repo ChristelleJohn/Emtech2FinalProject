@@ -42,8 +42,9 @@ def load_image():
 model = load_fashion_model()
 
 st.write("""# What's the Fashion?""")
-st.text("Young, Charles Henry")
 st.text("Ladisla, Christelle John T.")
+st.text("Young, Charles Henry(wala daw tinulong sir)")
+
 
 
 file = st.file_uploader("Choose photo from computer", type=["jpg", "png"])
